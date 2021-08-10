@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/app-menu": "file:./modules/app-menu/",
+    "@modules/chat": "file:./modules/chat/",
     "@modules/login": "file:./modules/login/",
     "@modules/maps": "file:./modules/maps/",
     "@modules/push-notifications": "file:./modules/push-notifications/",
